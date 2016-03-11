@@ -6,5 +6,6 @@ package packege1;
 public class WorkClass {
     public static void main(String[] args) {
         System.out.println("Hello Git");
+        System.out.println("Hello Git add 1 commit");
     }
 }
