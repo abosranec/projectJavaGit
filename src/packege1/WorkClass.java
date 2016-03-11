@@ -8,5 +8,6 @@ public class WorkClass {
         System.out.println("Hello Git");
         System.out.println("Hello Git add 1 commit");
         System.out.println("Hello Git add 2 commit");
+        System.out.println("Hello Git add 3 commit");
     }
 }
